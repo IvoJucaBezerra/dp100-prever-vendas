@@ -19,7 +19,7 @@ O objetivo deste projeto é desenvolver um modelo de regressão preditiva que pe
 
 ## Prints
 
-![]
+![](https://github.com/IvoJucaBezerra/dp100-prever-vendas/blob/main/criarrecursoML.png)
 
 ## Descrição do Processo
 
